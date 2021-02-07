@@ -1,7 +1,11 @@
 ### test.page
-test html page for
 
-backend-project-lvl3 (page-loader)
-Download html page into local directory
+test html page 
 
 https://ysemenyuk.github.io/test.page/
+
+for page-loader
+
+Download html page into local directory
+
+https://github.com/ysemenyuk/backend-project-lvl3
