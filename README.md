@@ -2,7 +2,7 @@
 
 test html page 
 
-https://ysemenyuk.github.io/test.page/
+https://ysemenyuk.github.io/test-page/
 
 for page-loader
 
